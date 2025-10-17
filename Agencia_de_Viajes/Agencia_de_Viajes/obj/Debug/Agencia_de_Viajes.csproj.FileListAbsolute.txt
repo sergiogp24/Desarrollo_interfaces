@@ -1,0 +1,15 @@
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\bin\Debug\Agencia_de_Viajes.exe.config
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\bin\Debug\Agencia_de_Viajes.exe
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\bin\Debug\Agencia_de_Viajes.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.Form1.resources
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.Properties.Resources.resources
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.UserControl1.resources
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.exe
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.exe.config
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.Destino.resources
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.Ofertas.resources
+C:\Users\CAMPUSFP\Desktop\ASP\Agencia_de_Viajes\Agencia_de_Viajes\obj\Debug\Agencia_de_Viajes.Reservas.resources
